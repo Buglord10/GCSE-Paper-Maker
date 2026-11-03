@@ -187,25 +187,6 @@ npm run package
 - **Desktop security:** The desktop wrapper currently enables Node integration and disables context isolation and sandboxing. Imported or edited content should be treated as trusted. Review these Electron settings before distributing the application to other users.
 - **Third-party names:** Examination-board names and trademarks belong to their respective owners. GCSE Paper Maker is an independent project and is not affiliated with or endorsed by any examination board.
 
-## Technology
-
-- HTML
-- CSS
-- Vanilla JavaScript
-- Electron
-- Electron Builder
-- html2canvas
-- jsPDF
-
-## Version history
-
-| Version | Highlights |
-|---|---|
-| **v1.0.0** | Initial GCSE Paper Maker release with paper creation, question editing, preview and export functionality. |
-| **v1.1.0** | Mark schemes, mathematical paper layouts, supporting inserts and further layout and PDF improvements. |
-| **v1.1.1** | JSON import bug fixes and stability improvements. |
-| **v1.2.0** | AI-assisted question and mark scheme generation, diagram and chart studio, formula and supporting sheets, and improved paper data handling. |
-
 ## License
 
 No licence file is currently included in the repository. Unless a licence is added, do not assume that the code is licensed for reuse, redistribution or modification by others.
